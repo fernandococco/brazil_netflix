@@ -125,3 +125,6 @@ with col4:
     fig.update_layout(barmode='stack')
 
     st.plotly_chart(fig, use_container_width=True)
+
+
+st.write("Author: Fernando Cocco Cordovil de Macedo")
