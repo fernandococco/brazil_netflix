@@ -81,7 +81,7 @@ with col2:
     st.plotly_chart(fig, use_container_width=True)
 
 with col3:
-    st.subheader("Top Categories Over the Years")
+    st.subheader("Categories Over the Years")
     listed_in_year = df_filtered.groupby(['release_year', 'listed_in']).size().reset_index(name='count')
 
     # Fill missing values with zero
