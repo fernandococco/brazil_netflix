@@ -2,7 +2,17 @@
 
 ## Summary
 
-The primary objective of this project is to conduct a comprehensive analysis of Brazilian content within the Netflix platform. We will be utilizing the Kaggle-curated dataset, "netflix_titles.csv",  which encompasses a comprehensive listing of all movies and TV shows accessible on Netflix up to the year 2021.
+The primary objective of this project is to conduct a comprehensive analysis of Brazilian content within the Netflix platform. We will be utilizing the Kaggle-curated dataset, "netflix_titles.csv," which encompasses a comprehensive listing of all movies and TV shows accessible on Netflix up to the year 2021.
+
+Additionally, a new dataset, "brazil_split.csv," has been added to the project. This dataset is generated after all data processing and manipulation of the "netflix_titles.csv" dataset. It includes data specifically related to Brazilian content on Netflix.
+
+## Dashboard
+
+To visualize the insights and analysis of Brazilian content on Netflix, a dashboard has been created using the Streamlit framework, Plotly Express, and Pandas. The dashboard script can be found in the "brazil_netflix_dashboard.py" file. The dashboard provides interactive visualizations and allows users to explore various aspects of Brazilian content on Netflix.
+
+To run the dashboard, make sure to install the required dependencies listed in the "requirements.txt" file. You can access the live dashboard at [Brazil Netflix Dashboard](https://brazil-netflix-dash.streamlit.app).
+
+## Dataset Columns
 
 1. **Type**: Categorizes the content into two primary types: "Movies" and "TV Shows." It distinguishes between films and television series, providing information on the format of the content.
 
@@ -16,7 +26,9 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 
 Each of these columns plays a crucial role in characterizing and analyzing the content available on Netflix. For the analysis of Brazilian content, focusing on the "Country" column with values related to Brazil and the "Type" column to distinguish between movies and TV shows is particularly relevant. Additionally, the "Listed_In," "Rating," and "Release_Year" columns provide valuable context for understanding content genres, audience suitability, and temporal trends.
 
-The research questions (RQ) emerged through the dataset is as follows:
+## Research Questions (RQ)
+
+The research questions (RQ) that emerged through the dataset are as follows:
 
 1. What type of content has Brazil produced the most or been involved in producing for Netflix?
 
@@ -28,7 +40,7 @@ The research questions (RQ) emerged through the dataset is as follows:
 
 5. What kind of TV shows has Brazil produced the most?
 
-6. What is the progression of Brazilian TV shows production over time?
+6. What is the progression of Brazilian TV show production over time?
 
 7. Which age rating (content rating) has Brazil focused on the most?
 
@@ -40,15 +52,15 @@ The research questions (RQ) emerged through the dataset is as follows:
 
 ## Instructions
 
-1. Choose the dataset. I used the Netflix Movies and TV Shows dataset and it is provided as netflix_titles.csv.
+1. Choose the dataset. I used the Netflix Movies and TV Shows dataset, provided as "netflix_titles.csv."
 
-2. Get organized in order to make analysis: one only folder with the Jupyter notebook and netflix_titles.csv file.
+2. Get organized to make the analysis: Have one folder with the Jupyter notebook and the "netflix_titles.csv" file.
 
-3. Analyze the data. An exploratory analysis was made in order to answer the RQ.
+3. Analyze the data: An exploratory analysis was performed to answer the RQ.
 
-4. Share the findings. All insights extracted from the data are inside the Jupyter notebook..
+4. Share the findings: All insights extracted from the data are documented within the Jupyter notebook.
 
-## Tools 
+## Tools
 
-In order to complete this project pandas, numPy, Matplotlib and csv libraries were used.
+In order to complete this project, the following libraries and tools were used: pandas, numpy, Matplotlib, csv, Streamlit and Plotly Express
 
