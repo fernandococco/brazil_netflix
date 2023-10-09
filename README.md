@@ -1,4 +1,4 @@
-# Analyzing Brazilian Content on Netflix
+# Exploring Brazilian Content on Netflix 🇧🇷
 
 ## Summary
 
