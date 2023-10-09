@@ -113,6 +113,11 @@ with col3:
 # Rating Distribution in col4 (Stacked Bars)
 with col4:
     st.subheader("Rating Distribution")
+    st.subheader('')
+    st.subheader('')
+    st.subheader('')
+    
+
 
     # Filter data based on the selected categories
     filtered_data = df_filtered[df_filtered['listed_in'].isin(selected_categories)]
