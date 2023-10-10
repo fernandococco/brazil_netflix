@@ -1,5 +1,14 @@
 # Exploring Brazilian Content on Netflix 🇧🇷
 
+## Table of Contents
+
+- [Summary](#summary)
+- [Dashboard](#dashboard)
+- [Dataset Columns](#dataset-columns)
+- [Research Questions (RQ)](#research-questions-rq)
+- [Instructions](#instructions)
+- [Tools](#tools)
+
 ## Summary
 
 The primary objective of this project is to conduct a comprehensive analysis of Brazilian content within the Netflix platform. We will be utilizing the Kaggle-curated dataset, "netflix_titles.csv," which encompasses a comprehensive listing of all movies and TV shows accessible on Netflix up to the year 2021.
@@ -11,6 +20,9 @@ Additionally, a new dataset, "brazil_split.csv," has been added to the project. 
 To visualize the insights and analysis of Brazilian content on Netflix, a dashboard has been created using the Streamlit framework, Plotly Express, and Pandas. The dashboard script can be found in the "brazil_netflix_dashboard.py" file. The dashboard provides interactive visualizations and allows users to explore various aspects of Brazilian content on Netflix.
 
 To run the dashboard, make sure to install the required dependencies listed in the "requirements.txt" file. You can access the live dashboard at [Brazil Netflix Dashboard](https://brazil-netflix-dash.streamlit.app).
+
+![Dashboard Screenshot](https://imgur.com/a/1SNviuS)
+
 
 ## Dataset Columns
 
