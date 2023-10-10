@@ -8,6 +8,7 @@
 - [Research Questions (RQ)](#research-questions-rq)
 - [Instructions](#instructions)
 - [Tools](#tools)
+- [Contact Information](#contact-information)
 
 ## Summary
 
@@ -76,11 +77,11 @@ In order to complete this project, the following libraries and tools were used: 
 
 ## Contact Information
 
-If you have any questions, feedback, or suggestions regarding this project, feel free to reach out to us. We welcome collaboration and would love to hear from you.
+If you have any questions, feedback, or suggestions regarding this project, feel free to reach out to us. I welcome collaboration and would love to hear from you.
 
 - **Email**: fernando.cocco.macedo@gmail.com
 - **GitHub**: [Fernando Cocco](https://github.com/fernandococco)
 - **LinkedIn**: [Fernando Cocco](https://www.linkedin.com/in/fernando-macedo-04285a288/)
 
-We appreciate your interest and look forward to connecting with you.
+I appreciate your interest and look forward to connecting with you.
 
