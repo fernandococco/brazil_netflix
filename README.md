@@ -21,8 +21,6 @@ To visualize the insights and analysis of Brazilian content on Netflix, a dashbo
 
 To run the dashboard, make sure to install the required dependencies listed in the "requirements.txt" file. You can access the live dashboard at [Brazil Netflix Dashboard](https://brazil-netflix-dash.streamlit.app).
 
-![Dashboard Screenshot](https://imgur.com/a/1SNviuS)
-
 
 ## Dataset Columns
 
