@@ -75,7 +75,7 @@ The research questions (RQ) that emerged through the dataset are as follows:
 
 In order to complete this project, the following libraries and tools were used: pandas, numpy, Matplotlib, csv, Streamlit and Plotly Express
 
-## Contact Information
+### Contact Information
 
 If you have any questions, feedback, or suggestions regarding this project, feel free to reach out to me. I welcome collaboration and would love to hear from you.
 
